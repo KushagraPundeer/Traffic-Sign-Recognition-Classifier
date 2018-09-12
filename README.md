@@ -17,10 +17,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: visualization1.jpg "Visualization" | 250 x 250
+[image1]: visualization1.jpg "Visualization"
 [image2]: grayscale.jpg "Grayscaling"
 [image3]: random_noise.jpg "Random Noise"
-[image4]: 1.jpg "Traffic Sign 1"
+[image4]: 1.jpg "Traffic Sign 1" | 250 x 250
 [image5]: 2.jpg "Traffic Sign 2"
 [image6]: 3.jpg "Traffic Sign 3"
 [image7]: 4.jpg "Traffic Sign 4"
