@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: visualization.jpg "Visualization"
+[image1]: visualization.png "Visualization"
 [image2]: grayscale.jpg "Grayscaling"
 [image3]: random_noise.jpg "Random Noise"
 [image4]: 1.jpg "Traffic Sign 1"
@@ -25,8 +25,8 @@ The goals / steps of this project are the following:
 [image6]: 3.jpg "Traffic Sign 3"
 [image7]: 4.jpg "Traffic Sign 4"
 [image8]: 5.jpg "Traffic Sign 5"
-[image9]: visualization2.jpg "Visualization"
-[image10]: visualization3.jpg "Visualization"
+[image9]: visualization.png "Visualization"
+[image10]: vizualization3.png "Visualization"
 
 
 ---
