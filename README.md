@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: visualization1.jpg "Visualization"
+[image1]: visualization.jpg "Visualization"
 [image2]: grayscale.jpg "Grayscaling"
 [image3]: random_noise.jpg "Random Noise"
 [image4]: 1.jpg "Traffic Sign 1"
@@ -25,8 +25,8 @@ The goals / steps of this project are the following:
 [image6]: 3.jpg "Traffic Sign 3"
 [image7]: 4.jpg "Traffic Sign 4"
 [image8]: 5.jpg "Traffic Sign 5"
-[image2]: visualization2.jpg "Visualization"
-[image3]: visualization3.jpg "Visualization"
+[image9]: visualization2.jpg "Visualization"
+[image10]: visualization3.jpg "Visualization"
 
 
 ---
@@ -54,6 +54,8 @@ signs data set:
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data is distributed for training, testing and validation.
 
 ![alt text][image1]
+![alt text][image9]
+![alt text][image10]
 
 ### Design and Test a Model Architecture
 
