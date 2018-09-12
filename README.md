@@ -105,7 +105,7 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4 | size=25x25] ![alt text][image5] ![alt text][image6] 
+![alt text][image4 <!-- .element height="50%" width="50%" -->] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
 Image 1 might be difficult to classify because it looks old. Color of the ambulance has poor contrast to the white on the sign. Image 2 is slightly blurred, with some small scuff showing wear. Image 5 has both construction and child crossing. This is an interesting example as the image has two traffic signs. It recognizes the child crossing correctly. I reran the network a few times to check if it was a random selection, but the classifier picks child every time. The contruction sign appears to have some shadow and bright areas and hence not as uniform in contrast.
