@@ -107,6 +107,8 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
+<img src="image4.jpg" width="100" title="1">
+
 <p align="left">
   <img src="image4.jpg" width="100" title="1">
   <img src="image5.jpg" width="100" title="2" alt="accessibility text">
