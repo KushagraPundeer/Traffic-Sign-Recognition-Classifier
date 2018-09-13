@@ -107,11 +107,12 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-<img src="4.jpg" width="100" title="1">
-
 <p align="left">
-  <img src="4.jpg" width="100" title="1">
-  <img src="5.jpg" width="100" title="2" alt="accessibility text">
+  <img src="4.jpg" width="150" height="150" title="1">
+  <img src="5.jpg" width="150" height="150" title="1">
+  <img src="6.jpg" width="150" height="150" title="1">
+  <img src="7.jpg" width="150" height="150" title="1">
+  <img src="8.jpg" width="100" height="150" title="1"">
 </p>
 
 ![alt text | 100x60, 20%][image4] ![alt text][image5] ![alt text][image6] 
